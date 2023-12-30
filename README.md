@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Plans:
+- Add subtasks, to split huge goal to smaller subgoals to make it more achievable
+- Access settings for the goals: Private / Public. It  would allow to create a system of followers and motivate followers to learn things that shared profi in some branch.
+- Motivate
+- PWA to have an offline access to app, that could be stored on device
+- Web workers to have dynamic data change
