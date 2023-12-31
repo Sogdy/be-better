@@ -16,7 +16,7 @@ const CreateGoal = () => {
     tag: '',
     endDate: '',
     status: '',
-    isPrivate: null,
+    isPrivate: true,
   });
 
   const createGoal = async (e) => {
